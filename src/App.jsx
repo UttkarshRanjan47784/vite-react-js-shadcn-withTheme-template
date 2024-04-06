@@ -7,7 +7,7 @@ export default function App() {
   return (
     <ThemeProvider >
       <div className='mx-5'>
-        <Button>Click Me Bitch!</Button>
+        <Button>Click Me!</Button>
         <ModeToggle />
       </div>
     </ThemeProvider>
